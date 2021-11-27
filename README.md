@@ -1,3 +1,3 @@
 # Prácticas de programación
 
-Hola mundo 
+Hola como estas 
